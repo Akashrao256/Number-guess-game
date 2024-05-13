@@ -1,4 +1,5 @@
 # Number-guess-game
+
 import java.util.Scanner;
 import java.util.Random;
 
